@@ -1,0 +1,50 @@
+body {
+
+}
+#title {
+	font-weight: bold;
+}
+
+.Logiciel {
+	background-color: #55efc4;
+}
+.API {
+	background-color: #81ecec;
+}
+.App {
+	background-color: #74b9ff;
+}
+.Apprentissage {
+	background-color: #a29bfe;
+}
+.Bibliothèque {
+	background-color: #00b894;
+}
+.Framework {
+	background-color: #00cec9;
+}
+.Hardware {
+	background-color: #0984e3;
+}
+.Inspiration {
+	background-color: #6c5ce7;
+}
+.IOT {
+	background-color: #ffeaa7;
+}
+.Plateforme {
+	background-color: #fab1a0;
+}
+.Plugin {
+	background-color: #ff7675;
+}
+.Template {
+	background-color: #fd79a8;
+}
+.Webapp {
+	background-color: #fd79a8;
+}
+.How-to {
+	background-color: #fdcb6e; 
+}
+/* left : #e17055 / #d63031 / #e84393 */
