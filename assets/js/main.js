@@ -4,6 +4,7 @@ $(document).ready(function() {
 	$('.featured').show();
 });
 
+
 function cleanUp() {
 	$('.tool').hide();
 }
