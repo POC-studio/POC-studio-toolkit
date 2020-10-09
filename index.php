@@ -9,7 +9,9 @@
     <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,400i,500" rel="stylesheet">
     <link href="assets/css/theme.css" rel="stylesheet" type="text/css" media="all" />
     <link href="assets/css/main.css" rel="stylesheet" type="text/css" media="all" />
-    <script src="https://kit.fontawesome.com/aaaada0f86.js" crossorigin="anonymous"></script>
+    <!-- Intégration FontAwesome --> 
+    <link href="assets/css/fontawesome.css" rel="stylesheet" type="text/css" media="all" />
+  
 
     <!-- Les favicons -->
     <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
@@ -59,6 +61,7 @@
     }
 
   $categories = [
+  	'3D',
     'App design',
     'Code et web',
     'Communication',
@@ -67,7 +70,8 @@
     'Facilitation et animation',
     'Image',
     'Gestion de connaissance',
-    'Typo et polices'
+    'Typo et polices',
+    'Vectoriel et icônes'
   ];
 
   ?> 
