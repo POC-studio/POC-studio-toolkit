@@ -70,8 +70,10 @@
     'Facilitation et animation',
     'Image',
     'Gestion de connaissance',
+    'Ressources visuelles',
     'Typo et polices',
-    'Vectoriel et icônes'
+    'Vectoriel et icônes',
+    'Vidéo'
   ];
 
   ?> 
@@ -154,7 +156,7 @@
                       $title = $tool[0]; // titre
                       $thelink = $tool[1]; // le lien du projet
                       $baseline = $tool[2]; // la description 
-                      $difficulty = $tool[3]; // la difficulté (chiffre de 1 à 5)
+                      $difficulty = $tool[3]; // la difficulté (chiffre de 1 à 5) - pas utilisé 
                       if ($tool[4] == 'checked') {
                         $isfeatured = true;
                       } else {
